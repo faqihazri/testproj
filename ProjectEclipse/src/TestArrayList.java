@@ -12,6 +12,8 @@ public class TestArrayList {
 		for (int sal :salaries) {
 			System.out.println(sal + ",");
 		}
+		
+		
 		//System.out.println("Array list is empty:" + al.isEmpty());
 		//al.add(new Integer(10));
 		//al.add(Boolean.TRUE);
